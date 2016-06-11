@@ -1,0 +1,6 @@
+﻿  CinderProjectApp.cpp
+  Unknown compiler version - please run the configure tests and report the results
+d:\_dev\github\my repository\leapmotion_cinder\cinderproject\src\cinderprojectapp.cpp(80): warning C4305: 'argument': truncation from 'double' to 'float'
+  CinderProject.vcxproj -> D:\_Dev\GitHub\My Repository\Leapmotion_Cinder\CinderProject\vc2013\Debug\CinderProject.exe
+  ..\..\..\cinder_0.9.0_vc2013\cinder_0.9.0_vc2013\Cinder-LeapMotion-master\Cinder-LeapMotion-master\lib\msw\x86\Leap.dll
+  1개 파일이 복사되었습니다.
