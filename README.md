@@ -2,7 +2,7 @@
 
 Building Virtual Reality 3D Modeling tool
 
-1. https://libcinder.org/download에서 Cinder 0.9.0 vc2013 을 받음 에
+1. https://libcinder.org/download 에서 Cinder 0.9.0 vc2013 을 받는다.
 
 2. 경로는 현재 깃프로젝트인(Leapmotion_Cinder)폴더와 같은 레벨에 있어야함.
    ex) My repository\Leapmotion_cinder , My repository\cinder_0.9.0_vc2013
